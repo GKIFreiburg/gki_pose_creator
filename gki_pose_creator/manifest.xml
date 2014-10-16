@@ -1,0 +1,17 @@
+<package>
+  <description brief="gki_pose_creator">
+
+     gki_pose_creator
+
+  </description>
+  <author>Andreas Hertle</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gki_pose_creator</url>
+
+  <depend package="rospy"/>
+  <depend package="interactive_markers"/>
+  <depend package="tf"/>
+</package>
+
+

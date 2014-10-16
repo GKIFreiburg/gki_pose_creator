@@ -1,0 +1,10 @@
+bin
+build
+lib
+cmake_install.cmake
+.project
+.cproject
+.pydevproject
+msg_gen
+src/gki_pose_creator
+*.pyc

@@ -1,0 +1,1 @@
+gki_pose_creator/NamedPoseStamped[] poses

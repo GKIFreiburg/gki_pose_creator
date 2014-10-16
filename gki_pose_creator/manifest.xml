@@ -5,7 +5,7 @@
 
   </description>
   <author>Andreas Hertle</author>
-  <license>BSD</license>
+  <license>MIT</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/gki_pose_creator</url>
 
